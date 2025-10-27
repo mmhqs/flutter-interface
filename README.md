@@ -4,7 +4,7 @@ The goal is to build a simple to-do list app with a cool interface, screen navig
 ![aplicativo](screenshots/1_tela_principal_com_tarefas.JPG)
 ---
 
-## 📂 Estrutura do repositório
+## 📂 Repos structure
 
 * `/code` - Contains all the source code for the Flutter application.
 * `/docs` - Contains the documentation used as a basis.
