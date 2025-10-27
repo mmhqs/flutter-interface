@@ -104,7 +104,7 @@ class _TaskListScreenState extends State<TaskListScreen> {
     
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Minhas Tarefas'),
+        title: const Text('Tarefas da Mariana'),
         backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
         elevation: 2,
