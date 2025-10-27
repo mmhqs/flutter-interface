@@ -9,3 +9,6 @@ The goal is to build a simple to-do list app with a cool interface, screen navig
 * `/code` - Contains all the source code for the Flutter application.
 * `/docs` - Contains the documentation used as a basis.
 * `/screenshots` - Contains screenshots and visual demonstrations of the project.
+
+## 📄 Report
+A brief report is available [here](/docs/report.md). This report covers the implementation of a professional multi-screen UI using Material Design 3, the development of a complete form with validation, and the key challenges and learnings from this phase.
